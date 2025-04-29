@@ -42,5 +42,5 @@ A robust backend system for managing products, shopping carts, and orders with c
 ### Installation
 ```bash
 git clone https://github.com/yourrepo/ecommerce-cart-system.git
-cd ecommerce-cart-system
+cd node-shopping-cart
 npm install
