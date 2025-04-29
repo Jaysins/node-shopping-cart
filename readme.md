@@ -35,7 +35,7 @@ A robust backend system for managing products, shopping carts, and orders with c
 ## Getting Started
 
 ### Prerequisites
-- Node.js 18+
+- Node.js 20+
 - MongoDB 6+
 - Redis 7+
 
@@ -44,3 +44,4 @@ A robust backend system for managing products, shopping carts, and orders with c
 git clone https://github.com/yourrepo/ecommerce-cart-system.git
 cd node-shopping-cart
 npm install
+npm run dev
